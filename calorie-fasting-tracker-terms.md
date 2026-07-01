@@ -58,4 +58,4 @@ We may update these terms at any time. Continued use of the app constitutes
 acceptance of updated terms.
 
 ## Contact
-Questions? Email us at: apps@bramhand.com
+Questions? Email us at: apps AT bramhand DOT com
