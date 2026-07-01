@@ -57,4 +57,4 @@ FastTrack does not collect any personal data. All fasting records and Health dat
 
 ---
 
-*Bramhand Inc. — apps@bramhand.com*
+*Bramhand Inc. — apps AT bramhand DOT com*
