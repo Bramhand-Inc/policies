@@ -50,4 +50,4 @@ We may update this policy. Continued use of the app after changes constitutes
 acceptance. The "Last updated" date above will reflect any changes.
 
 ## Contact
-Questions? Email us at: apps@bramhand.com
+Questions? Email us at: apps AT bramhand DOT com
