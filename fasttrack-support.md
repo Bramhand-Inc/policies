@@ -53,7 +53,7 @@ The timer is manual — tap the large circle on the home screen to start or stop
 
 ## Privacy
 
-FastTrack does not collect any personal data. All fasting records and Health data remain on your device. See our full [Privacy Policy](https://bramhand-inc.github.io/policies/calorie-fasting-tracker-privacy).
+FastTrack does not collect any personal data. All fasting records and Health data remain on your device. See our full [Privacy Policy](https://bramhand-inc.github.io/policies/fasttrack-privacy).
 
 ---
 
