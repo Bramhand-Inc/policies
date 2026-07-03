@@ -5,6 +5,18 @@ Developed by Bramhand Inc.
 
 ---
 
+## ⚠️ Important: Not Medical Advice
+
+MacroFast is a **personal wellness and nutrition tracking tool**. It is not a medical device and does not provide medical advice, diagnosis, or treatment recommendations.
+
+- Calorie and macro targets are personal goals you set — they are not prescribed by a dietitian or physician.
+- Fasting zone labels (Fat Burn, Ketosis, etc.) are informational reference points, not medical guidance.
+- The Glucose tab displays data from Apple Health for personal awareness only. Glucose readings come from connected devices or manual entries you control — MacroFast does not measure glucose itself.
+
+**Always consult a qualified healthcare provider before making changes to your diet, fasting habits, or interpreting glucose data, especially if you have a medical condition.**
+
+---
+
 ## Getting Help
 
 If you have a question, found a bug, or have a feature request, we'd love to hear from you.
@@ -15,7 +27,7 @@ Send an email to:
 
 Please include:
 - A brief description of the issue or request
-- Your iPhone model (e.g. iPhone 16 Pro)
+- Your iPhone model (e.g. iPhone 17 Pro Max)
 - iOS version (Settings → General → About)
 - App version (Settings → General → About → scroll to MacroFast)
 
@@ -40,6 +52,18 @@ MacroFast calculates your fasting window automatically from your last logged mea
 **How do I exclude a food from my fast?**
 Long press any food entry → Edit → toggle "Exclude from fast." Zero-calorie, zero-macro items like black coffee are excluded automatically.
 
+**What is the Glucose tab and how does it work?**
+The Glucose tab reads blood glucose data you have stored in Apple Health — for example, from a CGM device (Dexcom, FreeStyle Libre) or manual entries you added in the Health app. MacroFast does not measure or transmit your glucose data. All processing happens on-device.
+
+**What does "Within Goal" mean on the Glucose chart?**
+MacroFast uses a personal glucose goal range that you set in the Goals tab (default: 70–140 mg/dL). "Within Goal" means a reading falls between your lower and upper bounds. This is a personal reference point you define — it is not a medical diagnosis or clinical target. The labels "Below Goal" and "Above Goal" similarly reflect your custom range, not a medical threshold.
+
+**Why does MacroFast request access to Apple Health?**
+MacroFast requests read-only access to blood glucose data to display the Glucose chart. It never writes to Apple Health and never uploads your health data anywhere. You can revoke this permission at any time in iPhone Settings → Privacy & Security → Health → MacroFast.
+
+**Can I change my glucose goal range?**
+Yes. Go to the **Goals** tab and scroll to the Glucose Goal Range card. Adjust the lower and upper bounds with the sliders. Changes apply immediately to the chart.
+
 **How do I cancel my subscription?**
 Go to iPhone **Settings → Apple ID → Subscriptions → MacroFast**. You can cancel anytime. Access to Premium features continues until the end of the current billing period.
 
@@ -58,5 +82,5 @@ Yes — iCloud backup includes your MacroFast data if you have iCloud Backup ena
 
 ---
 
-*Last updated: June 2026*
+*Last updated: July 2026*
 *Bramhand Inc.*
