@@ -11,10 +11,10 @@ Bramhand Inc. grants you a personal, non-transferable, non-exclusive license to 
 ## Subscription
 
 ### Free Trial
-New subscribers receive a 7-day free trial. You will not be charged during the trial period. Cancel any time before the trial ends to avoid being charged.
+New subscribers may receive a free trial period before being charged. You will not be charged during the trial period. Cancel any time before the trial ends to avoid being charged.
 
 ### Billing
-After the free trial, the subscription is $14.99 USD per year (price may vary by region). Payment is charged to your Apple ID account at purchase confirmation.
+After the free trial, the subscription renews automatically at the price shown in the App Store at the time of purchase. Prices may vary by region and are subject to change. Payment is charged to your Apple ID account at purchase confirmation.
 
 ### Renewal
 Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
@@ -40,7 +40,7 @@ MacroFast is a personal wellness and nutrition tracking tool. It is **not** a me
 
 ## Apple Health
 
-MacroFast reads blood glucose data from Apple Health solely to display it on-device in the Glucose tab. MacroFast does not write to Apple Health, does not transmit health data, and does not store health data beyond your device's local storage.
+MacroFast may read blood glucose data from Apple Health to display it on-device in the Glucose tab. With your explicit opt-in, MacroFast may also write nutrition data (calories, protein, carbohydrates, and fat) to Apple Health so it appears alongside your other health data. MacroFast does not transmit any health data off your device.
 
 ## Limitation of Liability
 To the maximum extent permitted by law, Bramhand Inc. is not liable for any indirect, incidental, or consequential damages arising from use of the app, including reliance on nutrition data, fasting information, or glucose readings displayed within the app.
@@ -53,4 +53,3 @@ We may update these terms at any time. Continued use of the app constitutes acce
 
 ## Contact
 Questions? Email us at: app  [at]  bramhand  [dot]  com
-

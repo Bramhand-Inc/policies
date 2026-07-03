@@ -14,15 +14,14 @@ All data is stored locally on your device using Apple's SwiftData framework:
 - Subscription status (cached locally via UserDefaults)
 
 ## Apple Health (HealthKit)
-MacroFast requests **read-only** access to blood glucose data stored in Apple Health. This data is:
-- Displayed locally on your device in the Glucose tab
-- Never uploaded, transmitted, or shared with any server or third party
-- Never written back to Apple Health by MacroFast
-- Processed entirely on-device
 
-You can revoke HealthKit access at any time in **iPhone Settings → Privacy & Security → Health → MacroFast**.
+MacroFast may interact with Apple Health in two ways, both entirely on-device:
 
-MacroFast does not request access to any other HealthKit data types.
+**Reading glucose data:** MacroFast requests read-only access to blood glucose data stored in Apple Health. This data is displayed locally in the Glucose tab and is never uploaded, transmitted, or shared.
+
+**Writing nutrition data (opt-in):** If you choose to enable "Sync meals to Apple Health" in Goals, MacroFast will write your logged calorie, protein, carbohydrate, and fat data to Apple Health. This is off by default. You can disable it or revoke access at any time.
+
+You can manage HealthKit permissions at any time in **iPhone Settings → Privacy & Security → Health → MacroFast**.
 
 ## Data We Do Not Collect
 - We do not collect your name, email, or any personal identifiers
@@ -51,4 +50,3 @@ We may update this policy. Continued use of the app after changes constitutes ac
 
 ## Contact
 Questions? Email us at: app  [at]  bramhand  [dot]  com
-

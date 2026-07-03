@@ -53,13 +53,13 @@ MacroFast calculates your fasting window automatically from your last logged mea
 Long press any food entry → Edit → toggle "Exclude from fast." Zero-calorie, zero-macro items like black coffee are excluded automatically.
 
 **What is the Glucose tab and how does it work?**
-The Glucose tab reads blood glucose data you have stored in Apple Health — for example, from a CGM device (Dexcom, FreeStyle Libre) or manual entries you added in the Health app. MacroFast does not measure or transmit your glucose data. All processing happens on-device.
+The Glucose tab reads blood glucose data you have stored in Apple Health — for example, from a continuous glucose monitor or manual entries you added in the Health app. MacroFast does not measure or transmit your glucose data. All processing happens on-device.
 
 **What does "Within Goal" mean on the Glucose chart?**
-MacroFast uses a personal glucose goal range that you set in the Goals tab (default: 70–140 mg/dL). "Within Goal" means a reading falls between your lower and upper bounds. This is a personal reference point you define — it is not a medical diagnosis or clinical target. The labels "Below Goal" and "Above Goal" similarly reflect your custom range, not a medical threshold.
+MacroFast uses a personal glucose goal range that you set in the Goals tab (default: 70–140 mg/dL or 3.9–7.8 mmol/L). "Within Goal" means a reading falls between your lower and upper bounds. This is a personal reference point you define — it is not a medical diagnosis or clinical target. The labels "Below Goal" and "Above Goal" similarly reflect your custom range, not a medical threshold.
 
 **Why does MacroFast request access to Apple Health?**
-MacroFast requests read-only access to blood glucose data to display the Glucose chart. It never writes to Apple Health and never uploads your health data anywhere. You can revoke this permission at any time in iPhone Settings → Privacy & Security → Health → MacroFast.
+MacroFast requests read-only access to blood glucose data to display the Glucose chart. With your opt-in, it can also write nutrition data (calories, protein, carbs, fat) to Apple Health so your logged meals appear alongside your other health data. You can manage these permissions at any time in iPhone Settings → Privacy & Security → Health → MacroFast.
 
 **Can I change my glucose goal range?**
 Yes. Go to the **Goals** tab and scroll to the Glucose Goal Range card. Adjust the lower and upper bounds with the sliders. Changes apply immediately to the chart.
@@ -77,8 +77,8 @@ Yes — iCloud backup includes your MacroFast data if you have iCloud Backup ena
 
 ## Privacy Policy & Terms of Use
 
-- [Privacy Policy](https://bramhand-inc.github.io/policies/calorie-fasting-tracker-privacy)
-- [Terms of Use](https://bramhand-inc.github.io/policies/calorie-fasting-tracker-terms)
+- [Privacy Policy](https://bramhand-inc.github.io/policies/macrofast-privacy)
+- [Terms of Use](https://bramhand-inc.github.io/policies/macrofast-terms)
 
 ---
 
