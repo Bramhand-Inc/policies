@@ -23,6 +23,7 @@ FastTrack reads the following data types from Apple Health solely to display the
 This data is read-only and never leaves your device. We do not store, transmit, or share Health data.
 
 ## Data We Do Not Collect
+- We do not collect, store, or transmit any health or fitness data — all HealthKit data is read on-device and displayed locally only
 - We do not collect your name, email, or any personal identifiers
 - We do not use analytics or crash reporting tools
 - We do not track your location
