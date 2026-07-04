@@ -11,10 +11,10 @@ Bramhand Inc. grants you a personal, non-transferable, non-exclusive license to 
 ## Subscription
 
 ### Free Trial
-New subscribers receive a 3-day free trial for Fasting Insights. You will not be charged during the trial period. Cancel any time before the trial ends to avoid being charged.
+New subscribers may receive a free trial period for Fasting Insights. You will not be charged during the trial period. Cancel any time before the trial ends to avoid being charged.
 
 ### Billing
-After the free trial, the Fasting Insights subscription is $12.99 USD per year (price may vary by region). Payment is charged to your Apple ID account at purchase confirmation.
+After any free trial, the Fasting Insights subscription renews automatically at the price shown in the App Store at the time of purchase. Prices may vary by region and are subject to change. Payment is charged to your Apple ID account at purchase confirmation.
 
 ### Renewal
 Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
