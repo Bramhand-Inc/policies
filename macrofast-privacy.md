@@ -24,6 +24,7 @@ MacroFast may interact with Apple Health in two ways, both entirely on-device:
 You can manage HealthKit permissions at any time in **iPhone Settings → Privacy & Security → Health → MacroFast**.
 
 ## Data We Do Not Collect
+- We do not collect, store, or transmit any health or fitness data — all HealthKit data is read or written entirely on-device and never leaves it
 - We do not collect your name, email, or any personal identifiers
 - We do not use analytics or crash reporting tools
 - We do not track your location
@@ -49,4 +50,4 @@ This app is not directed at children under 13. We do not knowingly collect data 
 We may update this policy. Continued use of the app after changes constitutes acceptance. The "Last updated" date above will reflect any changes.
 
 ## Contact
-Questions? Email us at: app  [at]  bramhand  [dot]  com
+Questions? Email us at: apps AT bramhand DOT com
