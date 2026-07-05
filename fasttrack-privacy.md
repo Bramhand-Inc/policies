@@ -17,8 +17,7 @@ FastTrack reads the following data types from Apple Health solely to display the
 - Resting heart rate
 - Heart rate variability (HRV)
 - Blood glucose
-- Active energy burned
-- Resting energy burned
+- Body weight
 
 This data is read-only and never leaves your device. We do not store, transmit, or share Health data.
 
