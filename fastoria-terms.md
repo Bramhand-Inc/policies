@@ -1,9 +1,9 @@
-# Terms of Use — FastTrack
+# Terms of Use — Fastoria
 
 **Last updated: June 30, 2026**
 
 ## Acceptance
-By downloading or using FastTrack, you agree to these terms. If you do not agree, do not use the app.
+By downloading or using Fastoria, you agree to these terms. If you do not agree, do not use the app.
 
 ## License
 Bramhand Inc. grants you a personal, non-transferable, non-exclusive license to use this app on Apple devices you own or control, subject to the Apple Media Services Terms and Conditions.
@@ -29,7 +29,7 @@ Fasting timer, body state timeline, fasting history calendar, and science refere
 Heart rate, HRV, blood glucose, active energy, and resting energy charts overlaid on your fast require an active Fasting Insights subscription.
 
 ## Health Disclaimer
-FastTrack is for informational purposes only and is not a substitute for professional medical advice. The health data displayed is sourced from Apple Health and reflects what your connected devices have recorded. Always consult a qualified healthcare provider before making changes to your diet or fasting routine.
+Fastoria is for informational purposes only and is not a substitute for professional medical advice. The health data displayed is sourced from Apple Health and reflects what your connected devices have recorded. Always consult a qualified healthcare provider before making changes to your diet or fasting routine.
 
 ## Limitation of Liability
 To the maximum extent permitted by law, Bramhand Inc. is not liable for any indirect, incidental, or consequential damages arising from use of the app.
