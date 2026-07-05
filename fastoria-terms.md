@@ -26,7 +26,7 @@ Cancel any time in your Apple ID subscription settings or at: https://apps.apple
 Fasting timer, body state timeline, fasting history calendar, and science references are available without a subscription.
 
 ### Premium Features (Fasting Insights)
-Heart rate, HRV, blood glucose, active energy, and resting energy charts overlaid on your fast require an active Fasting Insights subscription.
+Heart rate, HRV, blood glucose, and weight charts overlaid on your fast require an active Fasting Insights subscription.
 
 ## Health Disclaimer
 Fastoria is for informational purposes only and is not a substitute for professional medical advice. The health data displayed is sourced from Apple Health and reflects what your connected devices have recorded. Always consult a qualified healthcare provider before making changes to your diet or fasting routine.
