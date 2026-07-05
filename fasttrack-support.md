@@ -44,7 +44,7 @@ Apple restricts access to heart rate data while your iPhone is locked. When you 
 Cancel any time in **Settings → [Your Name] → Subscriptions** on your iPhone, or visit: https://apps.apple.com/account/subscriptions. You retain access until the end of the current billing period.
 
 **How do I delete my fasting history?**
-Swipe left on any session in the History tab to delete it. To clear all history, go to **Settings** within the app.
+Swipe left on any session in the History tab to delete it. To clear all history, delete and reinstall the app.
 
 **The fasting timer didn't start / stop — why?**
 The timer is manual — tap the large circle on the home screen to start or stop a fast. The app does not auto-detect eating windows.
