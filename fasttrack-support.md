@@ -32,7 +32,7 @@ No. FastTrack requires no account, no sign-in, and no registration. Everything i
 All data — fasting sessions, timers, and subscription status — is stored locally on your iPhone. Nothing is sent to any server.
 
 **Why does the app need HealthKit access?**
-The Fasting Insights tab reads heart rate, HRV, blood glucose, and energy data from Apple Health to show how your body responds during a fast. The app never writes to Health and never shares this data.
+The Fasting Insights tab reads heart rate, HRV, blood glucose, and body weight from Apple Health to show how your body responds during a fast. The app never writes to Health and never shares this data.
 
 **The Insights tab shows "locked" even after I subscribed — what do I do?**
 Open the Insights tab, tap the lock icon to open the paywall screen, then tap **Restore Purchases**. This re-validates your subscription with the App Store and unlocks the tab immediately.
