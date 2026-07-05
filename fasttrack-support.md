@@ -1,6 +1,6 @@
-# FastTrack — Support
+# Fastoria — Support
 
-**FastTrack: Intermittent Fasting Tracker**
+**Fastoria: Intermittent Fasting Tracker**
 Developed by Bramhand Inc.
 
 ---
@@ -26,7 +26,7 @@ We aim to respond within **2 business days**.
 ## Frequently Asked Questions
 
 **Is an account required?**
-No. FastTrack requires no account, no sign-in, and no registration. Everything is stored privately on your device.
+No. Fastoria requires no account, no sign-in, and no registration. Everything is stored privately on your device.
 
 **Where is my data stored?**
 All data — fasting sessions, timers, and subscription status — is stored locally on your iPhone. Nothing is sent to any server.
@@ -53,7 +53,7 @@ The timer is manual — tap the large circle on the home screen to start or stop
 
 ## Privacy
 
-FastTrack does not collect any personal data. All fasting records and Health data remain on your device. See our full [Privacy Policy](https://bramhand-inc.github.io/policies/fasttrack-privacy).
+Fastoria does not collect any personal data. All fasting records and Health data remain on your device. See our full [Privacy Policy](https://bramhand-inc.github.io/policies/fasttrack-privacy).
 
 ---
 
