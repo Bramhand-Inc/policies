@@ -1,9 +1,9 @@
-# Privacy Policy — FastTrack
+# Privacy Policy — Fastoria
 
 **Last updated: June 30, 2026**
 
 ## Summary
-FastTrack stores all your data on your device. We do not collect, transmit, or share your personal information.
+Fastoria stores all your data on your device. We do not collect, transmit, or share your personal information.
 
 ## Data We Store
 All data is stored locally on your device:
@@ -12,7 +12,7 @@ All data is stored locally on your device:
 - Subscription status (cached locally via UserDefaults)
 
 ## Health Data
-FastTrack reads the following data types from Apple Health solely to display them on the Insights screen during your fast:
+Fastoria reads the following data types from Apple Health solely to display them on the Insights screen during your fast:
 - Heart rate
 - Resting heart rate
 - Heart rate variability (HRV)
