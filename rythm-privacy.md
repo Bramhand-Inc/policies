@@ -6,11 +6,10 @@
 Rythm stores all your data on your device. We do not collect, transmit, or share your personal information.
 
 ## Data We Store
-All data is stored locally on your device using Apple's SwiftData framework:
+Rythm has no account or sign-in of any kind. All data is stored locally on your device using Apple's SwiftData framework:
 - Daily recovery, sleep, strain, and stress scores computed from Apple Health data
 - Personal baselines (HRV, resting heart rate, sleep duration) calculated from your own history
-- Profile details you provide (birth date, biological sex, body weight, sleep goal)
-- Your Apple ID identifier, display name, and email (if shared) from Sign in with Apple
+- Profile details you provide (name, birth date, biological sex, body weight, sleep goal)
 - Subscription status (cached locally, verified against Apple's records)
 
 ## Apple Health (HealthKit)
@@ -31,9 +30,6 @@ You can manage HealthKit permissions at any time in **iPhone Settings → Privac
 
 ## AI Insights
 Rythm's daily insights are generated on-device using Apple's on-device Foundation Models (Apple Intelligence). Your health data never leaves your device to generate these insights — there is no server-side AI processing.
-
-## Sign in with Apple
-Rythm uses Sign in with Apple to identify your account. Your Apple ID identifier, display name, and email address (if you choose to share it) are stored locally on your device only, and are never transmitted to us or any third party.
 
 ## Data We Do Not Collect
 - We do not use analytics or crash reporting tools

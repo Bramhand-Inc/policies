@@ -37,7 +37,7 @@ We aim to respond within **2 business days**.
 ## Frequently Asked Questions
 
 **Is an account required?**
-Rythm uses Sign in with Apple to identify your account. No email, password, or registration form is required — you can hide your email from us using Apple's "Hide My Email" option.
+No. Rythm has no sign-in of any kind. You enter your name once during setup, which is stored only on your device — there's no login, password, or registration.
 
 **Where is my data stored?**
 All data — your scores, baselines, and profile details — is stored locally on your iPhone using Apple's encrypted on-device storage. Nothing is sent to any server.
