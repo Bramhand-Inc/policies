@@ -60,8 +60,8 @@ No. Rythm's daily insights are generated entirely on-device using Apple's on-dev
 **What's free and what requires Premium?**
 Your Recovery score, Recovery insight, and full Sleep tracking are free. Stress & Strain tracking, Trends history, and the remaining AI insight cards require an active subscription.
 
-**How do I cancel my subscription?**
-Go to iPhone **Settings → Apple ID → Subscriptions → Rythm**. You can cancel anytime. Access to Premium features continues until the end of the current billing period.
+**How do I cancel or manage my subscription?**
+All subscriptions are managed entirely through Apple, not through Rythm. Use Apple's subscription management to view, change, or cancel at any time. Access to Premium features continues until the end of the current billing period.
 
 **I purchased Premium but the app still shows the paywall.**
 Tap "Restore Purchases" on the paywall screen. If the issue persists, sign out and back into your Apple ID, then try restoring again.
