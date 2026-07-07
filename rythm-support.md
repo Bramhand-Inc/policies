@@ -57,13 +57,13 @@ Rythm requests **read-only** access to heart rate, HRV, resting heart rate, SpO2
 **Are the AI insights sent to a server?**
 No. Rythm's daily insights are generated entirely on-device using Apple's on-device Foundation Models (Apple Intelligence). Your health data never leaves your device.
 
-**What's free and what requires Premium?**
-Your Recovery score, Recovery insight, and full Sleep tracking are free. Stress & Strain tracking, Trends history, and the remaining AI insight cards require an active subscription.
+**Does Rythm require a subscription?**
+Yes. Rythm is a subscription app with a free trial (if offered). After the trial, an active subscription unlocks the whole app — Recovery, Sleep, Stress & Strain, Trends, and AI insights. There is no separate free tier and no ads.
 
 **How do I cancel or manage my subscription?**
-All subscriptions are managed entirely through Apple, not through Rythm. Use Apple's subscription management to view, change, or cancel at any time. Access to Premium features continues until the end of the current billing period.
+All subscriptions are managed entirely through Apple, not through Rythm. Use Apple's subscription management to view, change, or cancel at any time. Access continues until the end of the current billing period.
 
-**I purchased Premium but the app still shows the paywall.**
+**I subscribed but the app still shows the paywall.**
 Tap "Restore Purchases" on the paywall screen. If the issue persists, sign out and back into your Apple ID, then try restoring again.
 
 **Can I transfer my data to a new iPhone?**

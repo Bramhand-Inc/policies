@@ -18,9 +18,11 @@ Rythm requests **read-only** access to Apple Health. It never writes any data ba
 - Heart rate, heart rate variability (HRV), and resting heart rate
 - Blood oxygen (SpO2)
 - Sleep analysis
+- Respiratory rate
 - Active and resting (basal) energy burned
 - Step count
 - Body weight
+- Cardio fitness (VO₂ max)
 - Workouts (used to estimate your personal max heart rate)
 - Date of birth and biological sex (used to personalize score calculations)
 

@@ -22,11 +22,8 @@ Subscriptions automatically renew unless cancelled at least 24 hours before the 
 ### Cancellation
 Cancel any time in your Apple ID subscription settings or at: https://apps.apple.com/account/subscriptions. Cancellation takes effect at the end of the current billing period — you retain access until then.
 
-### Free Features
-Your Recovery score, Recovery insight, and full Sleep tracking are available without a subscription, at no charge and with no ads.
-
-### Premium Features
-Stress & Strain tracking (heart rate zones, strain score, non-exercise stress score), Trends history, and the Exercise & Stress, Next 1–2 Days, and Lifestyle Tip AI insights require an active subscription.
+### What's Included
+Rythm is a subscription app. After the free trial (if offered), an active subscription is required to use the app's features — Recovery, Sleep, Stress & Strain, Trends, and AI insights. There are no ads. If your subscription lapses, access to these features ends until it is renewed.
 
 ## Not Medical Advice
 
@@ -40,7 +37,7 @@ Rythm is a personal wellness and fitness tracking tool. It is **not** a medical 
 
 ## Apple Health
 
-Rythm reads heart rate, HRV, resting heart rate, SpO2, sleep, activity, body weight, and workout data from Apple Health to compute your scores entirely on-device. Rythm does not write any data back to Apple Health, and does not transmit any health data off your device.
+Rythm reads heart rate, HRV, resting heart rate, SpO2, respiratory rate, sleep, activity, body weight, cardio fitness (VO₂ max), and workout data from Apple Health to compute your scores entirely on-device. Rythm does not write any data back to Apple Health, and does not transmit any health data off your device.
 
 ## Limitation of Liability
 To the maximum extent permitted by law, Bramhand Inc. is not liable for any indirect, incidental, or consequential damages arising from use of the app, including reliance on recovery, strain, stress, or fitness age scores, or any AI-generated insight or recommendation.
