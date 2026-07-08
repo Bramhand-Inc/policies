@@ -45,6 +45,9 @@ All data — your scores, baselines, and profile details — is stored locally o
 **How does Rythm compute my Recovery score?**
 Recovery is a weighted blend of your HRV, resting heart rate, sleep, and blood oxygen (SpO2) compared against your own personal 90-day rolling baseline — never against a population average.
 
+**How is my Cardio Fitness Age calculated?**
+Rythm estimates a VO₂ max from the relationship between your maximum and resting heart rates, then combines it with your HRV and resting heart rate and compares the result to active-adult population norms for your age and sex. If your Apple Watch has recorded its own VO₂ max, Rythm also shows the fitness age implied by that value for comparison. It's a wellness estimate, not a medical or lab measurement.
+
 **Why does my score look different from other apps?**
 Every app uses its own formula and its own baseline window. Rythm always compares you to your own history, not to general population norms, so scores are personalized and may not match another app's number for the same day.
 
@@ -52,7 +55,7 @@ Every app uses its own formula and its own baseline window. Rythm always compare
 Rythm needs about 14 days of Apple Health history to establish reliable personal baselines for HRV, resting heart rate, and sleep. Scores shown during calibration are still computed, but become more accurate as more history accumulates.
 
 **Why does Rythm request access to Apple Health?**
-Rythm requests **read-only** access to heart rate, HRV, resting heart rate, SpO2, sleep, activity, body weight, and workout data to compute your scores. Rythm never writes anything back to Apple Health. You can manage these permissions at any time in iPhone Settings → Privacy & Security → Health → Rythm.
+Rythm requests **read-only** access to heart rate, HRV, resting heart rate, SpO2, respiratory rate, sleep, activity, body weight, cardio fitness (VO₂ max), and workout data to compute your scores. Rythm never writes anything back to Apple Health. You can manage these permissions any time in the Health app under Sharing → Apps → Rythm (or in iPhone Settings → Privacy & Security → Health → Rythm).
 
 **Are the AI insights sent to a server?**
 No. Rythm's daily insights are generated entirely on-device using Apple's on-device Foundation Models (Apple Intelligence). Your health data never leaves your device.
