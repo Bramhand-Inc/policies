@@ -74,6 +74,20 @@ Yes — iCloud backup includes your Rythm data if you have iCloud Backup enabled
 
 ---
 
+## Scientific References
+
+Rythm's scores are built on established, peer-reviewed physiology. The full list with direct links is available in the app under **Profile → Science & References**. These sources are provided for transparency and are not personalized medical recommendations — Rythm is not a medical device.
+
+- **Maximum heart rate (Tanaka formula):** Tanaka H, Monahan KD, Seals DR. *J Am Coll Cardiol* (2001). https://doi.org/10.1016/S0735-1097(00)01054-8
+- **VO₂ max estimation (heart-rate-ratio method):** Uth N, Sørensen H, Overgaard K, Pedersen PK. *Eur J Appl Physiol* (2004). https://doi.org/10.1007/s00421-003-0988-y
+- **Cardiorespiratory fitness reference standards:** Kaminsky LA, Arena R, Myers J. *Mayo Clin Proc* (2015). https://doi.org/10.1016/j.mayocp.2015.07.026
+- **HRV normal values:** Nunan D, Sandercock GRH, Brodie DA. *Pacing Clin Electrophysiol* (2010). https://doi.org/10.1111/j.1540-8159.2010.02841.x
+- **HRV, age & training adaptation:** Umetani K et al. (1998), https://doi.org/10.1016/S0735-1097(97)00554-8; Plews DJ et al. (2013), https://doi.org/10.1007/s40279-013-0071-8
+- **Heart rate zones (%HRR / Karvonen):** Karvonen MJ, Kentala E, Mustala O. *Ann Med Exp Biol Fenn* (1957).
+- **Resting heart rate & fitness:** Jensen MT, Suadicani P, Hein HO, Gyntelberg F. *Heart* (2013). https://doi.org/10.1136/heartjnl-2012-303375
+
+---
+
 ## Privacy Policy & Terms of Use
 
 - [Privacy Policy](https://bramhand-inc.github.io/policies/rythm-privacy)
