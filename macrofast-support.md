@@ -46,6 +46,8 @@ All data — food entries, macro history, goals, and fasting records — is stor
 **What data sources are used for food search?**
 Food search uses the USDA FoodData Central database, which is bundled directly in the app — no internet connection needed for search. Barcode lookups use the Open Food Facts API, an open-source, community-maintained database. Barcode requests are anonymous and contain no personal information.
 
+Default calorie and macro goal values are based on general dietary reference values for adults from the USDA Dietary Guidelines for Americans 2020–2025: https://www.dietaryguidelines.gov
+
 **My fasting timer seems off — why?**
 MacroFast calculates your fasting window automatically from your last logged meal. If the timer looks wrong, check whether the last entry was logged at the correct time, or whether it was an item marked "exclude from fast" (such as black coffee or water).
 
@@ -57,6 +59,8 @@ The Glucose tab reads blood glucose data you have stored in Apple Health — for
 
 **What does "Within Goal" mean on the Glucose chart?**
 MacroFast uses a personal glucose goal range that you set in the Goals tab (default: 70–140 mg/dL or 3.9–7.8 mmol/L). "Within Goal" means a reading falls between your lower and upper bounds. This is a personal reference point you define — it is not a medical diagnosis or clinical target. The labels "Below Goal" and "Above Goal" similarly reflect your custom range, not a medical threshold.
+
+The default range is informed by glycemic target guidance from the American Diabetes Association (ADA Standards of Care). For your personal target range, consult your healthcare provider. Reference: https://diabetesjournals.org/care/article/47/Supplement_1/S111/153954/6-Glycemic-Goals-and-Hypoglycemia
 
 **Why does MacroFast request access to Apple Health?**
 MacroFast requests read-only access to blood glucose data to display the Glucose chart. With your opt-in, it can also write nutrition data (calories, protein, carbs, fat) to Apple Health so your logged meals appear alongside your other health data. You can manage these permissions at any time in iPhone Settings → Privacy & Security → Health → MacroFast.
@@ -82,5 +86,5 @@ Yes — iCloud backup includes your MacroFast data if you have iCloud Backup ena
 
 ---
 
-*Last updated: July 2026*
+*Last updated: July 9, 2026*
 *Bramhand Inc.*

@@ -1,6 +1,6 @@
 # Terms of Use — MacroFast
 
-**Last updated: July 3, 2026**
+**Last updated: July 9, 2026**
 
 ## Acceptance
 By downloading or using MacroFast, you agree to these terms. If you do not agree, do not use the app.
@@ -37,6 +37,14 @@ MacroFast is a personal wellness and nutrition tracking tool. It is **not** a me
 - The Glucose tab displays data from Apple Health for personal awareness only. MacroFast does not measure glucose itself, and the "Within Goal" label reflects a personal range you set — not a medical threshold.
 
 **Always consult a qualified healthcare provider before making changes to your diet, fasting habits, or when interpreting glucose data, particularly if you have diabetes, a metabolic condition, or are taking medication.**
+
+## Health Information Sources
+
+Default calorie and macro goal values in the app are based on general dietary reference values for adults published by the U.S. Department of Agriculture. Default glucose goal ranges are informed by glycemic target guidance published by the American Diabetes Association. These references are provided for transparency — they do not constitute personalized recommendations.
+
+- **USDA Dietary Guidelines for Americans 2020–2025:** https://www.dietaryguidelines.gov
+- **American Diabetes Association — Standards of Care, Glycemic Goals:** https://diabetesjournals.org/care/article/47/Supplement_1/S111/153954/6-Glycemic-Goals-and-Hypoglycemia
+- **NIH — Healthy Eating and Physical Activity:** https://www.niddk.nih.gov/health-information/weight-management/healthy-eating-physical-activity-for-life
 
 ## Apple Health
 

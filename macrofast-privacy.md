@@ -1,6 +1,6 @@
 # Privacy Policy — MacroFast
 
-**Last updated: July 3, 2026**
+**Last updated: July 9, 2026**
 
 ## Summary
 MacroFast stores all your data on your device. We do not collect, transmit, or share your personal information.
