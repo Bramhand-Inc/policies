@@ -38,6 +38,18 @@ Rythm is a personal wellness and fitness tracking tool. It is **not** a medical 
 
 **Always consult a qualified healthcare provider before making changes to your exercise routine, sleep habits, or when interpreting any health metric shown in the app, particularly if you have a medical condition.**
 
+## Scientific References
+
+Rythm's scores are built on established, peer-reviewed physiology. The formulas and population norms used are drawn from the sources below and are provided for transparency — they do not constitute personalized medical recommendations. The full list, with direct links, is also available in the app under Profile → Science & References.
+
+- **Maximum heart rate (Tanaka formula):** Tanaka H, Monahan KD, Seals DR. "Age-predicted maximal heart rate revisited." *J Am Coll Cardiol* (2001). https://doi.org/10.1016/S0735-1097(00)01054-8
+- **VO₂ max estimation (heart-rate-ratio method):** Uth N, Sørensen H, Overgaard K, Pedersen PK. "Estimation of VO₂max from the ratio between HRmax and HRrest." *Eur J Appl Physiol* (2004). https://doi.org/10.1007/s00421-003-0988-y
+- **Cardiorespiratory fitness reference standards:** Kaminsky LA, Arena R, Myers J. "Reference standards for cardiorespiratory fitness (FRIEND registry)." *Mayo Clin Proc* (2015). https://doi.org/10.1016/j.mayocp.2015.07.026
+- **HRV normal values:** Nunan D, Sandercock GRH, Brodie DA. "A quantitative systematic review of normal values for short-term heart rate variability in healthy adults." *Pacing Clin Electrophysiol* (2010). https://doi.org/10.1111/j.1540-8159.2010.02841.x
+- **HRV, age & training adaptation:** Umetani K et al. (1998), https://doi.org/10.1016/S0735-1097(97)00554-8; Plews DJ et al. (2013), https://doi.org/10.1007/s40279-013-0071-8
+- **Heart rate zones (%HRR / Karvonen):** Karvonen MJ, Kentala E, Mustala O. "The effects of training on heart rate: a longitudinal study." *Ann Med Exp Biol Fenn* (1957).
+- **Resting heart rate & fitness:** Jensen MT, Suadicani P, Hein HO, Gyntelberg F. "Elevated resting heart rate, physical fitness and all-cause mortality." *Heart* (2013). https://doi.org/10.1136/heartjnl-2012-303375
+
 ## Apple Health
 
 Rythm reads heart rate, HRV, resting heart rate, SpO2, respiratory rate, sleep, activity, body weight, cardio fitness (VO₂ max), and workout data from Apple Health to compute your scores entirely on-device. Rythm does not write any data back to Apple Health, and does not transmit any health data off your device.
