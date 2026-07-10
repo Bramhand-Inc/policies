@@ -60,6 +60,9 @@ Rythm requests **read-only** access to heart rate, HRV, resting heart rate, SpO2
 **Are the AI insights sent to a server?**
 No. Rythm's daily insights are generated entirely on-device using Apple's on-device Foundation Models (Apple Intelligence). Your health data never leaves your device.
 
+**Can the AI insights be wrong?**
+Yes. The insights are generated automatically by an AI model, and like all AI they can occasionally be inaccurate, incomplete, or misleading. Treat them as informational suggestions, not facts — and never as medical advice. Always use your own judgment and consult a qualified healthcare provider for any health decision.
+
 **Does Rythm require a subscription?**
 Yes. Rythm is a subscription app with a free trial (if offered). After the trial, an active subscription unlocks the whole app — Recovery, Sleep, Stress & Strain, Trends, and AI insights. There is no separate free tier and no ads.
 

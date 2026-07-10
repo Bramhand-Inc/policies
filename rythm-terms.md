@@ -33,7 +33,7 @@ Rythm is a subscription app. After the free trial (if offered), an active subscr
 Rythm is a personal wellness and fitness tracking tool. It is **not** a medical device and does not provide medical advice, diagnosis, or treatment recommendations.
 
 - Recovery, strain, stress, and Cardio Fitness Age scores are wellness estimates derived from your Apple Health data — they are not clinical measurements and are not reviewed by a physician.
-- AI-generated insights and training recommendations are informational suggestions based on your own historical data, not professional coaching or medical guidance.
+- AI-generated insights and training recommendations are produced automatically by an on-device AI model. Like all AI, it can be inaccurate, incomplete, or misleading, and it may occasionally generate statements that do not reflect your actual data. They are informational suggestions based on your own historical data — not professional coaching or medical guidance — and should not be relied upon for any health or medical decision.
 - Heart rate zone calculations use standard physiological formulas personalized to your data — they are estimates, not precise medical readings.
 
 **Always consult a qualified healthcare provider before making changes to your exercise routine, sleep habits, or when interpreting any health metric shown in the app, particularly if you have a medical condition.**
