@@ -51,8 +51,8 @@ Rythm estimates a VO₂ max from the relationship between your maximum and resti
 **Why does my score look different from other apps?**
 Every app uses its own formula and its own baseline window. Rythm always compares you to your own history, not to general population norms, so scores are personalized and may not match another app's number for the same day.
 
-**What does "Calibrating" mean?**
-Rythm needs about 14 days of Apple Health history to establish reliable personal baselines for HRV, resting heart rate, and sleep. Scores shown during calibration are still computed, but become more accurate as more history accumulates.
+**Do I have to wait to get scores?**
+No. Rythm calibrates instantly from the Apple Health history already on your iPhone — if you've worn an Apple Watch for a couple of weeks, your personal baselines for HRV, resting heart rate, and sleep are ready the moment setup finishes, and your recent history is scored right away. Only a brand-new Apple Watch with very little history needs a few days for the baselines to sharpen.
 
 **Why does Rythm request access to Apple Health?**
 Rythm requests **read-only** access to heart rate, HRV, resting heart rate, SpO2, respiratory rate, sleep, activity, body weight, cardio fitness (VO₂ max), and workout data to compute your scores. Rythm never writes anything back to Apple Health. You can manage these permissions any time in the Health app under Sharing → Apps → Rythm (or in iPhone Settings → Privacy & Security → Health → Rythm).
