@@ -10,6 +10,7 @@ Rythm has no account or sign-in of any kind. All data is stored locally on your 
 - Daily recovery, sleep, strain, and stress scores computed from Apple Health data
 - Personal baselines (HRV, resting heart rate, sleep duration) calculated from your own history
 - Profile details you provide (name, birth date, biological sex, body weight, sleep goal)
+- Your reminder preference (whether the morning reminder is on, and its time)
 - Subscription status (cached locally, verified against Apple's records)
 
 ## Apple Health (HealthKit)
@@ -32,6 +33,9 @@ You can manage HealthKit permissions at any time in **iPhone Settings → Privac
 
 ## AI Insights
 Rythm's daily insights are generated on-device using Apple's on-device Foundation Models (Apple Intelligence). Your health data never leaves your device to generate these insights — there is no server-side AI processing.
+
+## Notifications
+If you enable the optional morning reminder, Rythm schedules a local notification on your device at the time you choose. It is a simple, generic reminder — it contains no health data or personal scores — and is scheduled entirely on-device with no server involved. You can turn it off any time in Rythm's Profile settings, or in iPhone Settings → Notifications → Rythm.
 
 ## Data We Do Not Collect
 - We do not use analytics or crash reporting tools

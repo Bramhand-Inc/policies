@@ -57,6 +57,9 @@ No. Rythm calibrates instantly from the Apple Health history already on your iPh
 **Why does Rythm request access to Apple Health?**
 Rythm requests **read-only** access to heart rate, HRV, resting heart rate, SpO2, respiratory rate, sleep, activity, body weight, cardio fitness (VO₂ max), and workout data to compute your scores. Rythm never writes anything back to Apple Health. You can manage these permissions any time in the Health app under Sharing → Apps → Rythm (or in iPhone Settings → Privacy & Security → Health → Rythm).
 
+**How do I turn the morning reminder on or off?**
+Go to the **Profile** tab and toggle **Morning Reminder** on or off; when it's on you can also pick the time. It's a simple local reminder to open the app — it contains no health data and is scheduled entirely on your device. You can also manage it in iPhone Settings → Notifications → Rythm.
+
 **Are the AI insights sent to a server?**
 No. Rythm's daily insights are generated entirely on-device using Apple's on-device Foundation Models (Apple Intelligence). Your health data never leaves your device.
 
