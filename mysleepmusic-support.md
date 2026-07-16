@@ -25,7 +25,7 @@ We aim to respond within **2 business days**.
 
 ## Frequently Asked Questions
 
-**Does MySleepMusic require Apple Music?**
+**Does MySleepMusic require an Apple Music subscription?**
 No. MySleepMusic plays any track from your personal music library — purchased songs, iTunes imports, or Apple Music downloads saved for offline listening. You do not need an active Apple Music subscription. If your library is empty, add music through the Music app first.
 
 **What does the sleep timer do?**
