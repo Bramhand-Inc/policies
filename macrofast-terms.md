@@ -94,3 +94,8 @@ We may update these terms at any time. Continued use of the app constitutes acce
 Bramhand Inc.
 Email: apps AT bramhand DOT com
 Website: https://bramhand-inc.github.io/policies/macrofast-support
+
+## Version History
+
+- **v1.1 (July 2026)** — Food log history calendar, day detail view, and calorie & macro trend charts moved from Premium to Free. Added Apple minimum EULA clauses (Acknowledgement, Maintenance & Support, Warranty, Product Claims, IP Rights, Legal Compliance, Third Party Terms, Third Party Beneficiary). Added Health Information Sources section.
+- **v1.0 (initial release)** — Food log, goal setting, fasting tracker & history, and glucose insights. Food log history and trends were Premium features.
