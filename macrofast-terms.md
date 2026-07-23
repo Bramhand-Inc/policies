@@ -1,6 +1,6 @@
 # Terms of Use — MacroFast
 
-**Last updated: July 9, 2026**
+**Last updated: July 22, 2026**
 
 ## Acceptance
 By downloading or using MacroFast, you agree to these terms. If you do not agree, do not use the app.
@@ -26,10 +26,17 @@ Subscriptions automatically renew unless cancelled at least 24 hours before the 
 Cancel any time in your Apple ID subscription settings or at: https://apps.apple.com/account/subscriptions. Cancellation takes effect at the end of the current billing period — you retain access until then.
 
 ### Free Features
-Basic calorie and macro logging, barcode scanning, food search, meal photos, and goal setting are available without a subscription, at no charge and with no ads.
+The following are available without a subscription, at no charge and with no ads:
+- Calorie and macro logging, barcode scanning, food search, and meal photos
+- Goal setting (calories, macros, glucose range)
+- Food log history calendar and day detail view
+- Calorie and macro trend charts (weekly and monthly)
 
 ### Premium Features
-Fasting tracker with zone circle, fasting history, glucose insights, and full history calendar require an active subscription.
+The following require an active subscription:
+- Fasting tracker with live zone circle and automatic fasting windows
+- Fasting history and fasting statistics
+- Glucose insights tab (trend chart and time-in-range from Apple Health)
 
 ## Maintenance and Support
 Bramhand Inc. is solely responsible for providing maintenance and support services for MacroFast. Apple has no obligation whatsoever to furnish any maintenance or support services with respect to MacroFast. Any questions or complaints regarding MacroFast should be directed to Bramhand Inc. at the contact information below.

@@ -48,14 +48,21 @@ Food search uses the USDA FoodData Central database, which is bundled directly i
 
 Default calorie and macro goal values are based on general dietary reference values for adults from the USDA Dietary Guidelines for Americans 2020–2025: https://www.dietaryguidelines.gov
 
+**How do I view my food log history and trends?**
+Tap the **History** tab. Use the segment picker to switch between three views: "Food Log" (calendar of logged days), "Trends" (weekly and monthly calorie and macro charts), and "Fasting" (fasting history — Premium). Both Food Log and Trends are free.
+
 **My fasting timer seems off — why?**
 MacroFast calculates your fasting window automatically from your last logged meal. If the timer looks wrong, check whether the last entry was logged at the correct time, or whether it was an item marked "exclude from fast" (such as black coffee or water).
 
 **How do I exclude a food from my fast?**
 Long press any food entry → Edit → toggle "Exclude from fast." Zero-calorie, zero-macro items like black coffee are excluded automatically.
 
+**What features are free vs. Premium?**
+Free (no subscription required): food logging, barcode scanning, meal photos, goal setting, food log history calendar, and calorie & macro trend charts.
+Premium: fasting tracker with live zone circle, fasting history, and the Glucose insights tab. Premium features require an active subscription.
+
 **What is the Glucose tab and how does it work?**
-The Glucose tab reads blood glucose data you have stored in Apple Health — for example, from a continuous glucose monitor or manual entries you added in the Health app. MacroFast does not measure or transmit your glucose data. All processing happens on-device.
+The Glucose tab is a Premium feature that reads blood glucose data you have stored in Apple Health — for example, from a continuous glucose monitor or manual entries you added in the Health app. MacroFast does not measure or transmit your glucose data. All processing happens on-device.
 
 **What does "Within Goal" mean on the Glucose chart?**
 MacroFast uses a personal glucose goal range that you set in the Goals tab (default: 70–140 mg/dL or 3.9–7.8 mmol/L). "Within Goal" means a reading falls between your lower and upper bounds. This is a personal reference point you define — it is not a medical diagnosis or clinical target. The labels "Below Goal" and "Above Goal" similarly reflect your custom range, not a medical threshold.
@@ -86,5 +93,5 @@ Yes — iCloud backup includes your MacroFast data if you have iCloud Backup ena
 
 ---
 
-*Last updated: July 9, 2026*
+*Last updated: July 22, 2026*
 *Bramhand Inc.*
