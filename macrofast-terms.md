@@ -64,7 +64,7 @@ Default calorie and macro goal values in the app are based on general dietary re
 
 ## Apple Health
 
-MacroFast may read blood glucose data from Apple Health to display it on-device in the Glucose tab. With your explicit opt-in, MacroFast may also write nutrition data (calories, protein, carbohydrates, fat, and fiber) to Apple Health so it appears alongside your other health data. MacroFast does not transmit any health data off your device.
+MacroFast may read blood glucose data from Apple Health to display it on-device in the Glucose tab. With your explicit opt-in, MacroFast may also write nutrition data (calories, protein, carbohydrates, and fat) to Apple Health so it appears alongside your other health data. MacroFast does not transmit any health data off your device.
 
 ## Product Claims
 Bramhand Inc., not Apple, is responsible for addressing any claims by you or any third party relating to MacroFast or your possession and/or use of MacroFast, including but not limited to: (i) product liability claims; (ii) any claim that MacroFast fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation.
@@ -97,6 +97,6 @@ Website: https://bramhand-inc.github.io/policies/macrofast-support
 
 ## Version History
 
-- **v1.2 (July 2026)** — Added fiber as a tracked macro (visible in meal summaries, day totals, and Add/Edit food forms). Barcode scanning now populates fiber from Open Food Facts. USDA food database updated with fiber values. Apple Health nutrition writes now include fiber. Updated Apple Health section to reflect fiber.
+- **v1.2 (July 2026)** — Added fiber as a tracked macro (visible in meal summaries, day totals, and Add/Edit food forms). Barcode scanning now populates fiber from Open Food Facts. USDA food database updated with fiber values.
 - **v1.1 (July 2026)** — Food log history calendar, day detail view, and calorie & macro trend charts moved from Premium to Free. Added Apple minimum EULA clauses (Acknowledgement, Maintenance & Support, Warranty, Product Claims, IP Rights, Legal Compliance, Third Party Terms, Third Party Beneficiary). Added Health Information Sources section.
 - **v1.0 (initial release)** — Food log, goal setting, fasting tracker & history, and glucose insights. Food log history and trends were Premium features.
