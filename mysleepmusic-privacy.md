@@ -10,7 +10,7 @@ MySleepMusic has no account or sign-in of any kind. All data is stored locally o
 - Your sleep playlist (references to tracks in your music library, stored in UserDefaults)
 - Sleep timer and fade preferences (duration, fade start offset, step size, play-forever settings)
 - Your preferred default volume
-- Subscription status (cached locally, verified against Apple's records at launch)
+- Purchase status (cached locally, verified against Apple's records at launch)
 
 ## Music Library Access
 
@@ -32,8 +32,8 @@ MySleepMusic includes an optional screen-dimming feature that reduces screen bri
 - We do not share any data with third parties
 - We do not have servers or a backend
 
-## Subscriptions
-Subscription purchases and management are handled entirely by Apple. We receive only a verified transaction confirmation — we never see your payment information. See Apple's Privacy Policy at https://www.apple.com/legal/privacy for details on how Apple handles payment data.
+## Purchases
+In-app purchases are handled entirely by Apple. We receive only a verified transaction confirmation — we never see your payment information. See Apple's Privacy Policy at https://www.apple.com/legal/privacy for details on how Apple handles payment data.
 
 ## Children's Privacy
 This app is not directed at children under 13. We do not knowingly collect data from children.

@@ -58,14 +58,14 @@ Go to the **Songs** tab and tap **+** in the top-right corner. Tap any song to a
 **Where is my playlist stored?**
 Your sleep playlist is stored locally on your iPhone in the app's private storage. It is not synced to iCloud or any server. If you delete the app, your playlist selection is lost (the music itself remains in your library).
 
-**Does MySleepMusic require a subscription?**
-Yes. MySleepMusic is a subscription app with a free trial (if offered). After the trial, an active subscription unlocks the full app — sleep timer, volume fade, play-forever mode, night display, and music library access. There are no ads.
+**Does MySleepMusic require a purchase?**
+Yes. MySleepMusic is unlocked by a one-time in-app purchase of $2.99. Pay once and all features are yours permanently — sleep timer, volume fade, play-forever mode, night display, and music library access. There are no subscriptions and no recurring charges.
 
-**How do I cancel or manage my subscription?**
-All subscriptions are managed entirely through Apple. Go to **Settings → [your name] → Subscriptions** to view, change, or cancel. Access continues until the end of the current billing period.
+**I bought the app but it's still showing the paywall.**
+Tap **Restore Purchase** on the paywall screen, or go to the **About** tab and tap **Restore Purchases**. If the issue persists, sign out and back into your Apple ID (Settings → [your name] → Sign Out), then reopen the app and try restoring again.
 
-**I subscribed but the app still shows the paywall.**
-Tap **Restore Purchases** on the paywall screen, or go to the **About** tab and tap **Restore Purchases**. If the issue persists, sign out and back into your Apple ID (Settings → [your name] → Sign Out), then reopen the app and try restoring again.
+**Can I use my purchase on multiple devices?**
+Yes. Your purchase is tied to your Apple ID. Sign in with the same Apple ID on any of your devices and tap **Restore Purchase** to unlock the app at no extra charge.
 
 **Can I use MySleepMusic while another app plays audio?**
 MySleepMusic takes over audio playback when you press Play, which stops other audio sources (Spotify, Podcasts, etc.) as expected for a music player.

@@ -1,6 +1,6 @@
 # Terms of Use — MySleepMusic
 
-**Last updated: July 13, 2026**
+**Last updated: July 2026**
 
 ## Acceptance
 By downloading or using MySleepMusic, you agree to these terms. If you do not agree, do not use the app.
@@ -11,28 +11,25 @@ This agreement is between you and Bramhand Inc. only, and not with Apple Inc. Br
 ## License
 Bramhand Inc. grants you a personal, non-transferable, non-exclusive license to use MySleepMusic on any Apple-branded device that you own or control, as permitted by the Apple Media Services Terms and Conditions (Usage Rules). This license does not allow you to use MySleepMusic on any device you do not own or control. You may use MySleepMusic through Family Sharing or volume purchasing programs as permitted by Apple's Usage Rules.
 
-## Subscription
+## Purchase
 
-### Free Trial
-New subscribers may receive a free trial period before being charged. The exact trial length, if offered, is shown in the app and in the App Store at the time of purchase and is subject to change. You will not be charged during the trial period. Cancel any time before the trial ends to avoid being charged. Any unused portion of a free trial is forfeited when you purchase a subscription.
-
-### Billing
-After any free trial, the subscription renews automatically at the price shown in the App Store at the time of purchase. Prices may vary by region, promotion, and over time, and are subject to change. Payment is charged to your Apple ID account at purchase confirmation.
-
-### Renewal
-Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
-
-### Cancellation
-Cancel any time in your Apple ID subscription settings or at: https://apps.apple.com/account/subscriptions. Cancellation takes effect at the end of the current billing period — you retain access until then.
+### One-Time Payment
+MySleepMusic is unlocked by a one-time, non-consumable in-app purchase. The price is shown in the App Store and in the app at the time of purchase. Payment is charged to your Apple ID account at purchase confirmation.
 
 ### What's Included
-MySleepMusic is a subscription app. After the free trial (if offered), an active subscription is required to use the app's features — sleep timer, volume fade, play-forever mode, night display dimming, and music library access. There are no ads. If your subscription lapses, access to these features ends until it is renewed.
+After purchase, all features are permanently unlocked — sleep timer, volume fade, play-forever mode, night display dimming, and music library access. There are no recurring charges and no subscription.
+
+### Restore Purchase
+If you reinstall the app or switch to a new device, tap **Restore Purchase** in the app's About tab or on the purchase screen. Your purchase is tied to your Apple ID and can be restored at no charge on any device signed in with the same Apple ID.
+
+### Refunds
+Refunds are handled by Apple in accordance with their standard policies. Contact Apple Support at https://reportaproblem.apple.com to request a refund.
 
 ## Music Library
 MySleepMusic plays tracks from your personal music library using Apple's on-device MediaPlayer framework. You are responsible for ensuring you have the right to play any content through your music library. MySleepMusic does not provide any music catalog — it plays only what you select from your own library.
 
 ## Screen Dimming
-MySleepMusic includes an optional screen-dimming feature that reduces screen brightness to support sleep. Use this feature responsibly and do not rely on it in situations where screen visibility is required.
+MySleepMusic includes a screen-dimming feature that overlays a dark layer on the app's UI while music plays to support sleep. This affects only the app's own display and does not change system brightness. Use this feature responsibly and do not rely on it in situations where screen visibility is required.
 
 ## Maintenance and Support
 Bramhand Inc. is solely responsible for providing maintenance and support services for MySleepMusic. Apple has no obligation whatsoever to furnish any maintenance or support services with respect to MySleepMusic. Any questions or complaints regarding MySleepMusic should be directed to Bramhand Inc. at the contact information below.
