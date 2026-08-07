@@ -53,7 +53,7 @@ The timer is manual — tap the large circle on the home screen to start or stop
 
 ## Privacy
 
-Fastoria does not collect any personal data. All fasting records and Health data remain on your device. See our full [Privacy Policy](https://bramhand-inc.github.io/policies/fastoria-privacy).
+Fastoria does not collect any personal data. All fasting records and Health data remain on your device. See our full [Privacy Policy](https://app.bramhand.com/privacy/fastoria).
 
 ---
 
