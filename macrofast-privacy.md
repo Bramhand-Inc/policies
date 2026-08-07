@@ -50,4 +50,4 @@ This app is not directed at children under 13. We do not knowingly collect data 
 We may update this policy. Continued use of the app after changes constitutes acceptance. The "Last updated" date above will reflect any changes.
 
 ## Contact
-Questions? Email us at: apps AT bramhand DOT com
+Questions? Email us at: app AT bramhand DOT com

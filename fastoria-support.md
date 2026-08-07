@@ -11,7 +11,7 @@ If you have a question, found a bug, or have a feature request, we'd love to hea
 
 Send an email to:
 
-**apps [at] bramhand [dot] com**
+**app AT bramhand DOT com**
 
 Please include:
 - A brief description of the issue or request
@@ -57,4 +57,4 @@ Fastoria does not collect any personal data. All fasting records and Health data
 
 ---
 
-*Bramhand Inc. — apps AT bramhand DOT com*
+*Bramhand Inc. — app AT bramhand DOT com*

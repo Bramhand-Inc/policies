@@ -23,7 +23,7 @@ If you have a question, found a bug, or have a feature request, we'd love to hea
 
 Send an email to:
 
-**app  [at]  bramhand  [dot]  com**
+**app AT bramhand DOT com**
 
 Please include:
 - A brief description of the issue or request
