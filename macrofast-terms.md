@@ -1,6 +1,6 @@
 # Terms of Use — MacroFast
 
-**Last updated: July 29, 2026**
+**Last updated: August 7, 2026**
 
 ## Acceptance
 By downloading or using MacroFast, you agree to these terms. If you do not agree, do not use the app.
@@ -97,6 +97,7 @@ Website: https://app.bramhand.com/support/macrofast
 
 ## Version History
 
+- **v1.3 (August 2026)** — Trend charts now show the last N completed days plus today as a faded bar; averages exclude the in-progress current day. Photo library picker fix (camera and library both work). Calorie display now shows two decimal places for values over 1,000 (e.g. 1.63k). "Ask your own AI" export copies a full nutrition, fasting, and glucose summary to clipboard for pasting into ChatGPT, Claude, Gemini, or any AI assistant. Long-press on any food entry in the History food log now shows a context menu: Log Again ×1/×2/×3, Edit, and Delete.
 - **v1.2 (July 2026)** — Added fiber as a tracked macro (visible in meal summaries, day totals, and Add/Edit food forms). Barcode scanning now populates fiber from Open Food Facts. USDA food database updated with fiber values. Fiber is now written to Apple Health alongside calories, protein, carbs, and fat.
 - **v1.1 (July 2026)** — Food log history calendar, day detail view, and calorie & macro trend charts moved from Premium to Free. Added Apple minimum EULA clauses (Acknowledgement, Maintenance & Support, Warranty, Product Claims, IP Rights, Legal Compliance, Third Party Terms, Third Party Beneficiary). Added Health Information Sources section.
 - **v1.0 (initial release)** — Food log, goal setting, fasting tracker & history, and glucose insights. Food log history and trends were Premium features.
